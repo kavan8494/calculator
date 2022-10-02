@@ -1,0 +1,29 @@
+.wraper{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+.container.disable{
+    opacity:0.6;
+    pointer-events: none;
+}
+#time{
+    position:  relative;
+    left: 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.content>select{
+    width: 80px;
+    height: 30px;
+}
+
+.button{
+    margin-top: 10px;
+    position: relative;
+    left: 60px;
+    width: 150px;
+    height: 50px;
+}
